@@ -5,5 +5,6 @@ void main(){
 	printf("Subtraction: %d",a-b);
 	printf("multiplication: %d",a*b);
 	printf("Division: %d" , a/b);
+	printf("Mathematical operations");
 
 }
