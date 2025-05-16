@@ -6,4 +6,10 @@ Amity
 
 
 Hello Linux
+merging 
+push
+pull 
+python
+java
+
 
